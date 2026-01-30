@@ -1,61 +1,66 @@
-<h1>Hi, I'm Francis 👋</h1>
+<h1>Hi, I’m Francis 👋</h1>
 
-I’m a Senior Technical Program Manager who builds and scales complex data and AI-enabled platforms — from early architecture through multi-country production rollouts supporting 1M+ users.
+I’m a Senior Technical Program Manager with a strong product mindset, building and scaling complex data and AI-enabled platforms — from early architecture and product definition through multi-country production rollouts supporting 1M+ users.
 
-My work sits at the intersection of **engineering execution, systems architecture, and stakeholder alignment**. I specialize in turning ambiguous problem spaces into executable technical programs, especially where data platforms, interoperability, and AI/ML are involved.
+My work sits at the intersection of product intent, engineering execution, and systems architecture. I specialize in turning ambiguous, high-stakes problem spaces into clear technical and product direction, then driving those initiatives through delivery — especially where data platforms, interoperability, and AI/ML are involved.
 
-Most of what I do is practical and outcome-driven: clear roadmaps, strong technical alignment, and delivery mechanisms that work in real-world constraints.
+Most of what I do is practical and outcome-driven: shaping direction when requirements are unclear, aligning engineers around workable designs, and building delivery mechanisms that succeed under real-world constraints.
 
 ---
 
 <h2>What I work on</h2>
 
-- **Large-scale technical programs**  
-  Cross-org initiatives spanning backend services, APIs, data pipelines, and AI-enabled workflows
+- <strong>Ambiguous product & platform initiatives</strong><br />
+  Defining direction, scope, and execution plans for complex platform and data products where requirements are unclear and constraints are real
 
-- **AI & data platforms (execution-focused)**  
-  AI/ML integration, speech-to-text pipelines, decision-support systems, analytics platforms
+- <strong>Large-scale technical programs</strong><br />
+  Owning and leading cross-org initiatives spanning backend services, APIs, data pipelines, and AI-enabled workflows across distributed teams
 
-- **Interoperability & platform foundations**  
-  API programs, FHIR-based systems, data standards, and system-to-system integration at scale
+- <strong>AI & data platforms (product-to-production)</strong><br />
+  Driving AI/ML integration from concept through production, including speech-to-text pipelines, decision-support systems, analytics platforms, and applied ML workflows
 
-- **Program execution under ambiguity**  
-  Dependency mapping, risk management, roadmap sequencing, and delivery governance across distributed teams
+- <strong>Interoperability & platform foundations</strong><br />
+  Owning API programs, FHIR-based systems, data standards, and system-to-system integrations that enable new products and national-scale adoption
 
-- **Modernization & scalability**  
-  Migrating legacy architectures to scalable, cloud-based platforms with measurable performance improvements
+- <strong>Program execution under ambiguity</strong><br />
+  Dependency mapping, risk management, roadmap sequencing, and delivery governance in high-uncertainty technical environments
+
+- <strong>Modernization & scalability</strong><br />
+  Leading migrations from legacy architectures to scalable, cloud-native platforms with measurable improvements in performance, reliability, and cost efficiency
 
 ---
 
 <h2>About me</h2>
 
-- **Senior Technical Program Manager** with 10+ years of experience spanning software engineering, technical leadership, and large-scale program delivery
+- <strong>Senior Technical Program Manager / Product-oriented TPM</strong> with 10+ years of experience spanning software engineering, product definition, and large-scale technical delivery
 
-- Led multi-quarter platform initiatives across **digital health, fintech, and public-sector systems**, including deployments across 6+ countries
+- Led multi-quarter platform initiatives across <strong>digital health, fintech, and public-sector systems</strong>, including deployments across 6+ countries and platforms serving over 1M users
 
-- Former **Technical Program Manager II at Ona**, where I reduced rework by 70%, modernized data architectures, and introduced AI-enabled components into production systems
+- Former <strong>Technical Program Manager II at Ona</strong>, where I reduced rework by 70%, modernized data architectures, and introduced AI-enabled components into production systems supporting global deployments
 
-- Background in software engineering, which allows me to partner deeply with engineers while maintaining a systems-level view of execution, risk, and outcomes
+- Regularly own platform roadmaps, feature sequencing, and technical trade-offs in close partnership with product, engineering, policy, and regulatory stakeholders
 
-- Currently focused on **Senior / Principal TPM roles** working on distributed systems, platform foundations, and AI-enabled infrastructure
+- Background in software engineering, allowing me to partner deeply with engineers while maintaining a systems-level view of execution, risk, and outcomes
+
+- Currently focused on <strong>Senior / Principal TPM and Technical Product Platform roles</strong> working on distributed systems, data platforms, and AI-enabled infrastructure
 
 ---
 
 <h2>Currently exploring</h2>
 
 - AI-enabled platform patterns (agent-assisted workflows, decision systems)
-- Scalable data architectures and observability for complex programs
-- How TPMs can better drive delivery for AI and platform teams
-- Program execution models for high-ambiguity technical environments
+- Scalable data architectures, reliability, and observability for complex technical programs
+- How product-oriented TPMs can better drive delivery for AI and platform teams
+- Execution models for high-ambiguity, regulation-heavy technical environments
 
 ---
 
 <h2>Let’s connect</h2>
 
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/francisodhiambo">francisodhiambo</a>
-- 💬 Happy to chat about TPM roles, platform programs, AI delivery, or complex system execution
+- 💬 Happy to chat about technical program leadership, platform product delivery, AI systems, or complex execution challenges
 - 📍 Based in Kenya | Open to global opportunities
 
 ---
 
-⚡ Fun fact: I started my career writing production code and evolved into running the programs behind systems used by over a million people.
+⚡ Fun fact: I started my career writing production code and evolved into owning the programs — and often the product direction — behind systems used by over a million people.
